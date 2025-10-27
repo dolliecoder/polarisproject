@@ -1,2 +1,2 @@
 # polarisproject
-projects
+new projects
